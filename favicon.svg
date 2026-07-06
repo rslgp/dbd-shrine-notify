@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Shrine Watch">
+  <rect width="64" height="64" rx="14" fill="#0b0f12" />
+  <g fill="none" stroke="#2dd4bf" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M32 8 L52 22 V44 L32 56 L12 44 V22 Z" opacity="0.55" />
+    <path d="M32 20 a12 7 0 1 0 0.01 0 Z" />
+  </g>
+  <circle cx="32" cy="27" r="4.2" fill="#2dd4bf" />
+</svg>
